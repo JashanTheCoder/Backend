@@ -1,0 +1,4 @@
+curl http://localhost:3000
+
+
+after running this check request.log . 
