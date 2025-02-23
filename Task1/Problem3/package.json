@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "problem3",
   "version": "1.0.0",
   "main": "index.js",
@@ -12,4 +13,19 @@
   "dependencies": {
     "express": "^4.21.2"
   }
+=======
+	"name": "problem3",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"express": "^4.21.2"
+	}
+>>>>>>> 22b3d83c84bee8fb6529293d18b3e2e93422751a
 }
