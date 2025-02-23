@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"title": "Understanding JavaScript Closures",
+		"content": "Closures are functions that retain access to their lexical scope, even when executed outside of it."
+	},
+	{
+		"id": 2,
+		"title": "Getting Started with Express.js",
+		"content": "Express.js is a minimal Node.js framework that simplifies routing and middleware management."
+	},
+	{
+		"id": 3,
+		"title": "CSS Grid vs Flexbox: Which One to Use?",
+		"content": "CSS Grid is best for 2D layouts, while Flexbox is great for 1D arrangements of elements."
+	},
+	{
+		"id": 4,
+		"title": "The Power of Async/Await in JavaScript",
+		"content": "Async/Await allows writing asynchronous code in a synchronous style, improving readability."
+	},
+	{
+		"id": 5,
+		"title": "How to Optimize Website Performance",
+		"content": "Optimizing images, reducing HTTP requests, and using caching can improve website speed significantly."
+	},
+	{
+		"id": 5,
+		"title": "How to Optimize Website Performance",
+		"content": "Optimizing images, reducing HTTP requests, and using caching can improve website speed significantly."
+	}
+]

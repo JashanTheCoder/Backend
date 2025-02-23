@@ -1,0 +1,62 @@
+/* General Styling */
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f4f4f4;
+	margin: 0;
+	padding: 20px;
+	text-align: center;
+}
+
+/* Page Container */
+.container {
+	width: 80%;
+	margin: auto;
+	background: white;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading */
+h1 {
+	color: #333;
+}
+
+/* Buttons */
+button {
+	background-color: #007bff;
+	color: white;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	margin-top: 10px;
+}
+
+button:hover {
+	background-color: #0056b3;
+}
+
+/* Blog Post List */
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+ul li {
+	background: #fff;
+	margin: 10px 0;
+	padding: 10px;
+	border-radius: 5px;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+ul li a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #007bff;
+}
+
+ul li a:hover {
+	text-decoration: underline;
+}
